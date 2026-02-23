@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Max\\WebstormProjects\\quartz\\node_modules\\prettier",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "C:\\Users\\Max\\WebstormProjects\\quartz\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -76,7 +76,7 @@
       <workItem from="1771773384226" duration="2408000" />
       <workItem from="1771799326700" duration="8000" />
       <workItem from="1771836589991" duration="758000" />
-      <workItem from="1771839760491" duration="3550000" />
+      <workItem from="1771839760491" duration="4686000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
