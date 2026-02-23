@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Всякое/блокировоки в системе 1С.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\Всякое" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\Запросы" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content" />
     </key>
@@ -78,7 +80,7 @@
       <workItem from="1771799326700" duration="8000" />
       <workItem from="1771836589991" duration="758000" />
       <workItem from="1771839760491" duration="6257000" />
-      <workItem from="1771864567227" duration="1310000" />
+      <workItem from="1771864567227" duration="2483000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
