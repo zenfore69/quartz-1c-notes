@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/1 часть/Хранение справочной информации/#T6. Константы, Справочники, Перечисления.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <workItem from="1771940978113" duration="141000" />
       <workItem from="1771941299684" duration="25000" />
       <workItem from="1772195173121" duration="175000" />
-      <workItem from="1772200109070" duration="603000" />
+      <workItem from="1772200109070" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
