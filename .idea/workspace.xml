@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +54,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\3 Объектный подход к программированию" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\Объектный подход к программированию" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\Хранение справочной информации" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\Основы программирования" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -86,7 +84,7 @@
       <workItem from="1771940978113" duration="141000" />
       <workItem from="1771941299684" duration="25000" />
       <workItem from="1772195173121" duration="175000" />
-      <workItem from="1772200109070" duration="5383000" />
+      <workItem from="1772200109070" duration="5480000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
