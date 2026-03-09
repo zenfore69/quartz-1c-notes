@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/2.3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T2. Основы программирования. Базовые понятия и операторы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T5. Универсальные коллекции - Таблица значений и Дерево значений.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/T6. Константы, Справочники, Перечисления.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/T7. Константы, Справочники, Перечисления. Разбор практических задач.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/T8. Планы видов характеристик, регистр сведений.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T3. Процедуры и функции. Встроенные функции платформы 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T3. Процедуры и функции. Встроенные функции платформы 1С.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2. Процедуры и функции. Встроенные функции платформы 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2. Процедуры и функции. Встроенные функции платформы 1С.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T6. Константы, Справочники, Перечисления.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T6. Константы, Справочники, Перечисления.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T7. Константы, Справочники, Перечисления. Разбор практических задач.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T7. Константы, Справочники, Перечисления. Разбор практических задач.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T8. План видов характеристик. Первое знакомство с регистром сведений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T8. План видов характеристик. Первое знакомство с регистром сведений.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +57,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;v4&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Max/WebstormProjects/quartz/content/1 часть/1 Основы программирования&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -55,12 +70,15 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\2 Хранение справочной информации" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\Картиночки" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 2" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами (1) " />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\3 Объектный подход к программированию" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\Объектный подход к программированию" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\Хранение справочной информации" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -89,6 +107,8 @@
       <workItem from="1772200109070" duration="5480000" />
       <workItem from="1772208323057" duration="809000" />
       <workItem from="1772278865642" duration="2000" />
+      <workItem from="1772481186863" duration="456000" />
+      <workItem from="1773052219882" duration="1138000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
