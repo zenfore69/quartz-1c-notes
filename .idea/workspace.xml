@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20. Запросы. Табличная модель доступа к данным. Консоль запросов.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T21. Запросы к регистрам. Физические и виртуальные таблицы. Вложенные запросы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T22. Соединение и объединение таблиц в запросе.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T23. Пакетные запросы. Временные таблицы. Работа с запросами в коде.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T24. Менеджер временных таблиц. Разбор практических задач на работу с запросами.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/1Запросы в 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/1Запросы в 1С.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/2Запросы к регистрам.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/2Запросы к регистрам.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/3Соединение и объединение таблиц в запросах 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/3Соединение и объединение таблиц в запросах 1С.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/4Пакетные запросы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/4Пакетные запросы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/5Менеджеры временных таблиц.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/5Менеджеры временных таблиц.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/Всякое/T26. Блокировки в 1С.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2 часть/Всякое/блокировоки в системе 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Всякое/блокировоки в системе 1С.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +61,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Всякое" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 2" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\3 Объектный подход к программированию" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\2 Хранение справочной информации" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -105,7 +96,7 @@
       <workItem from="1772278865642" duration="2000" />
       <workItem from="1772481186863" duration="456000" />
       <workItem from="1773052219882" duration="1388000" />
-      <workItem from="1773053635479" duration="1785000" />
+      <workItem from="1773053635479" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
