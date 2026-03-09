@@ -4,120 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/T10 Презентация.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_01_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_02_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_03_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_04_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_05_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_06_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_07_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_08_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_09_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_10_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_11_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/slide_12_T1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/T11 Презентация.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_01_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_02_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_03_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_04_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_05_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_06_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_07_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_08_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_09_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_10_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_11_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_12_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_13_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_14_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_15_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_16_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_17_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_18_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_19_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_20_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_21_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_22_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_23_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_24_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_25_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_26_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_27_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_28_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_29_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_30_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_31_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_32_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_33_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_34_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_35_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_36_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_37_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_38_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_39_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_40_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_41_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_42_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_43_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_44_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_45_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/slide_46_T11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/T9 презентация.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_01_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_02_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_03_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_04_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_05_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_06_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_07_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_08_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_09_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_10_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_11_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_12_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_13_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_14_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_15_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_16_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_17_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_18_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_19_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_20_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_21_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_22_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_23_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_24_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_25_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_26_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_27_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_28_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_29_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_30_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_31_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_32_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_33_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_34_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_35_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_36_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_37_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_38_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_39_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_40_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_41_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_42_T9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/slide_43_T9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10. Программная работа с объектами конфигурации. Разбор задач.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10/#T10. Программная работа с объектами конфигурации. Разбор задач.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11. Виды модулей. Расширение методов объектов. Обработчики событий.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11/#T11. Виды модулей. Расширение методов объектов. Обработчики событий.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9. Объектный подход к программированию. Программная работа с объектами конфигурации.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9/#T9. Объектный подход к программированию. Программная работа с объектами конфигурации.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T12. Пользовательский интерфейс. Знакомство с формами.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T12/#T12. Пользовательский интерфейс. Знакомство с формами.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T13. Клиент-серверная архитектура. Работа с управляемыми формами. Команды и События.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T13/#T13. Клиент-серверная архитектура. Работа с управляемыми формами. Команды и События.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T14. Типы данных формы. Программное создание элементов и реквизитов формы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T14/#T14. Типы данных формы. Программное создание элементов и реквизитов формы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T15. Процедуры и функции интерактивной работы. Модальное окно. Асинхронные методы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T15/#T15. Процедуры и функции интерактивной работы. Модальное окно. Асинхронные методы.md" afterDir="false" />
-    </list>
+    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,10 +58,10 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\3 Объектный подход к программированию\#T11" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1\#T14" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1\#T13" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1\#T12" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\3 Объектный подход к программированию\#T11" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1\#T14" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1\#T15" />
     </key>
   </component>
@@ -207,7 +94,7 @@
       <workItem from="1772481186863" duration="456000" />
       <workItem from="1773052219882" duration="1388000" />
       <workItem from="1773053635479" duration="5665000" />
-      <workItem from="1773074404766" duration="3761000" />
+      <workItem from="1773074404766" duration="4073000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
