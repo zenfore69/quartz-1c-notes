@@ -5,58 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_01_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_02_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_03_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_04_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_05_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_06_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_07_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_08_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_09_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_10_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_11_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_12_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_13_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_14_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_15_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_16_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_17_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_18_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_19_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_20_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_21_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_22_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_23_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_24_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_25_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_26_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_27_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_28_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_29_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_30_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_31_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_32_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_33_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_34_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_35_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_36_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_37_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_38_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_39_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_40_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_41_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_42_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_43_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_44_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_45_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_46_T20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_47_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/T20. Запросы. Табличная модель доступа к данным. Консоль запросов.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/#T20. Запросы. Табличная модель доступа к данным. Консоль запросов.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/T21. Запросы к регистрам. Физические и виртуальные таблицы. Вложенные запросы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/#T21. Запросы к регистрам. Физические и виртуальные таблицы. Вложенные запросы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/T22. Соединение и объединение таблиц в запросе.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/#T22. Соединение и объединение таблиц в запросе.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/T23. Пакетные запросы. Временные таблицы. Работа с запросами в коде.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/#T23. Пакетные запросы. Временные таблицы. Работа с запросами в коде.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/T24. Менеджер временных таблиц. Разбор практических задач на работу с запросами.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/#T24. Менеджер временных таблиц. Разбор практических задач на работу с запросами.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/#T15 2/T15.2 Презентация.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/#T15 2/T15.2 Презентация.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,11 +61,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы\#T20" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Всякое\#T26" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 2\#T16" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 2\#T15 2" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы\#T24" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы\#T23" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы\#T22" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы\#T21" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\Запросы\#T20" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -147,7 +97,7 @@
       <workItem from="1772481186863" duration="456000" />
       <workItem from="1773052219882" duration="1388000" />
       <workItem from="1773053635479" duration="5665000" />
-      <workItem from="1773074404766" duration="5322000" />
+      <workItem from="1773074404766" duration="7032000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
