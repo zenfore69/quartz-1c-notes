@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/2.3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T2. Основы программирования. Базовые понятия и операторы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T5. Универсальные коллекции - Таблица значений и Дерево значений.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/T6. Константы, Справочники, Перечисления.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/T7. Константы, Справочники, Перечисления. Разбор практических задач.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/T8. Планы видов характеристик, регистр сведений.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/T10. Программная работа с объектами конфигурации. Разбор задач.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/T11. Виды модулей. Расширение методов объектов. Обработчики событий.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/T9. Объектный подход к программированию. Программная работа с объектами конфигурации. Часть 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/T12. Пользовательский интерфейс. Знакомство с формами.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/T13. Клиент-серверная архитектура. Работа с управляемыми формами. Команды и События.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/T14. Типы данных формы. Программное создание элементов и реквизитов формы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/T15. Процедуры и функции интерактивной работы. Модальное окно. Асинхронные методы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/T15.2. Диалог выбора файла в 1С и другие диалоги.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/T16. Работа с изображениями. Присоединенные файлы.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T3. Процедуры и функции. Встроенные функции платформы 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T3. Процедуры и функции. Встроенные функции платформы 1С.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2. Процедуры и функции. Встроенные функции платформы 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2. Процедуры и функции. Встроенные функции платформы 1С.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T6. Константы, Справочники, Перечисления.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T6. Константы, Справочники, Перечисления.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T7. Константы, Справочники, Перечисления. Разбор практических задач.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T7. Константы, Справочники, Перечисления. Разбор практических задач.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T8. План видов характеристик. Первое знакомство с регистром сведений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/2 Хранение справочной информации/#T8. План видов характеристик. Первое знакомство с регистром сведений.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10. Программная работа с объектами конфигурации. Разбор задач.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T10. Программная работа с объектами конфигурации. Разбор задач.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11. Виды модулей. Расширение методов объектов. Обработчики событий.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T11. Виды модулей. Расширение методов объектов. Обработчики событий.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9. Объектный подход к программированию. Программная работа с объектами конфигурации.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/3 Объектный подход к программированию/#T9. Объектный подход к программированию. Программная работа с объектами конфигурации.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T12. Пользовательский интерфейс. Знакомство с формами.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T12. Пользовательский интерфейс. Знакомство с формами.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T13. Клиент-серверная архитектура. Работа с управляемыми формами. Команды и События.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T13. Клиент-серверная архитектура. Работа с управляемыми формами. Команды и События.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T14. Типы данных формы. Программное создание элементов и реквизитов формы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T14. Типы данных формы. Программное создание элементов и реквизитов формы.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T15. Процедуры и функции интерактивной работы. Модальное окно. Асинхронные методы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 1/#T15. Процедуры и функции интерактивной работы. Модальное окно. Асинхронные методы.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/#T15.2. Диалог выбора файла в 1С и другие диалоги.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/#T15.2. Диалог выбора файла в 1С и другие диалоги.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/#T16. Работа с изображениями. Присоединенные файлы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/4 Работа с формами 2/#T16. Работа с изображениями. Присоединенные файлы.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +78,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\2 Хранение справочной информации" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\Картиночки" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 2" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\4 Работа с формами 1" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\3 Объектный подход к программированию" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\2 Хранение справочной информации" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -108,7 +112,8 @@
       <workItem from="1772208323057" duration="809000" />
       <workItem from="1772278865642" duration="2000" />
       <workItem from="1772481186863" duration="456000" />
-      <workItem from="1773052219882" duration="1138000" />
+      <workItem from="1773052219882" duration="1388000" />
+      <workItem from="1773053635479" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
