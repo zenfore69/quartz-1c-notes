@@ -5,43 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/slide_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/T4 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_01_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_02_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_03_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_04_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_05_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_06_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_07_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_08_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_09_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_10_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_11_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_12_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_13_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_14_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_15_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_16_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_17_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_18_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_19_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_20_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_21_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_22_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_23_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_24_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_25_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_26_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_27_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_28_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_29_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_30_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_31_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_32_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_33_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_34_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_35_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_36_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_37_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_38_T4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/slide_39_T4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T3. Процедуры и функции. Встроенные функции платформы 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T3/#T3. Процедуры и функции. Встроенные функции платформы 1С.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2. Процедуры и функции. Встроенные функции платформы 1С.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#Т2/#Т2. Процедуры и функции. Встроенные функции платформы 1С.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/2.3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T2. Основы программирования. Базовые понятия и операторы.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/T5. Универсальные коллекции - Таблица значений и Дерево значений.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T4/#T4. Универсальные коллекции - Массив, Структура, Соответствие, Список значений.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5. Универсальные коллекции - Таблица значений и Дерево значений/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/1 часть/1 Основы программирования/#T5/#T5. Универсальные коллекции - Таблица значений и Дерево значений.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +102,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\#T4" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\#T3" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\#T3. Процедуры и функции. Встроенные функции платформы 1С" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\презентация" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования\#T5. Универсальные коллекции - Таблица значений и Дерево значений" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -132,7 +138,7 @@
       <workItem from="1772481186863" duration="456000" />
       <workItem from="1773052219882" duration="1388000" />
       <workItem from="1773053635479" duration="5665000" />
-      <workItem from="1773074404766" duration="1453000" />
+      <workItem from="1773074404766" duration="2050000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
