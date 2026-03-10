@@ -5,182 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/#T17. Документы. Отражение хозяйственных операций.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/#T18. Программная работа с документами. Регистры накопления.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T19/#T19. Задача резервирования. Чтение данных из регистра накопления и другие задачи.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/T17 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_01_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_02_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_03_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_04_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_05_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_06_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_07_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_08_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_09_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_10_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_11_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_12_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_13_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_14_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_15_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_16_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_17_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_18_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_19_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_20_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_21_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_22_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_23_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_24_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_25_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_26_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_27_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_28_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_29_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_30_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_31_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_32_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_33_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_34_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_35_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_36_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T17/slide_37_T17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/T18 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_01_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_02_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_03_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_04_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_05_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_06_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_07_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_08_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_09_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_10_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_11_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_12_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_13_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_14_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_15_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_16_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_17_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_18_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_19_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_20_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_21_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_22_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_23_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_24_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_25_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_26_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_27_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_28_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_29_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_30_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_31_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/1 часть/6 Документы Отражение хозяйственных операций/#T18/slide_32_T18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/8 Оперативный учет Контроль остатков и учет по партиям/#T27/#T27. Последовательность. Методы расчета себестоимости. Учет по партиям.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/#T20. Запросы. Табличная модель доступа к данным. Консоль запросов.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/#T20. Запросы. Табличная модель доступа к данным. Консоль запросов.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/T20 Презентация.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/T20 Презентация.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_01_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_01_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_02_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_02_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_03_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_03_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_04_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_04_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_05_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_05_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_06_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_06_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_07_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_07_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_08_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_08_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_09_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_09_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_10_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_10_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_11_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_11_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_12_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_12_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_13_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_13_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_14_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_14_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_15_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_15_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_16_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_16_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_17_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_17_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_18_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_18_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_19_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_19_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_20_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_20_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_21_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_21_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_22_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_22_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_23_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_23_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_24_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_24_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_25_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_25_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_26_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_26_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_27_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_27_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_28_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_28_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_29_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_29_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_30_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_30_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_31_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_31_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_32_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_32_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_33_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_33_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_34_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_34_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_35_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_35_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_36_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_36_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_37_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_37_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_38_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_38_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_39_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_39_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_40_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_40_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_41_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_41_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_42_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_42_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_43_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_43_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_44_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_44_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_45_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_45_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_46_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_46_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T20/slide_47_T20.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T20/slide_47_T20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/#T21. Запросы к регистрам. Физические и виртуальные таблицы. Вложенные запросы.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/#T21. Запросы к регистрам. Физические и виртуальные таблицы. Вложенные запросы.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/T21 Презентация.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/T21 Презентация.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_01_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_01_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_02_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_02_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_03_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_03_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_04_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_04_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_05_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_05_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_06_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_06_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_07_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_07_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_08_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_08_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_09_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_09_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_10_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_10_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_11_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_11_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_12_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_12_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_13_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_13_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_14_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_14_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_15_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_15_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_16_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_16_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_17_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_17_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_18_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_18_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_19_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_19_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_20_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_20_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_21_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_21_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_22_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_22_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_23_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_23_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_24_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_24_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_25_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_25_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_26_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_26_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_27_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_27_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_28_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_28_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_29_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_29_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_30_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_30_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_31_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_31_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T21/slide_32_T21.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T21/slide_32_T21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/#T22. Соединение и объединение таблиц в запросе.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/#T22. Соединение и объединение таблиц в запросе.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/T22 Презентация.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/T22 Презентация.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_01_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_01_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_02_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_02_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_03_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_03_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_04_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_04_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_05_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_05_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_06_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_06_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_07_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_07_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_08_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_08_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_09_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_09_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_10_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_10_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_11_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_11_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_12_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_12_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_13_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_13_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_14_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_14_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_15_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_15_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_16_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_16_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_17_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_17_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_18_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_18_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_19_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_19_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_20_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_20_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_21_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_21_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_22_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_22_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_23_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_23_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_24_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_24_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_25_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_25_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_26_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_26_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_27_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_27_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_28_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_28_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_29_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_29_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_30_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_30_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_31_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_31_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_32_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_32_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_33_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_33_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_34_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_34_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_35_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_35_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_36_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_36_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_37_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_37_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T22/slide_38_T22.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T22/slide_38_T22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/#T23. Пакетные запросы. Временные таблицы. Работа с запросами в коде.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/#T23. Пакетные запросы. Временные таблицы. Работа с запросами в коде.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/T23 Презентация.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/T23 Презентация.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_01_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_01_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_02_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_02_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_03_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_03_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_04_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_04_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_05_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_05_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_06_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_06_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_07_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_07_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_08_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_08_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_09_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_09_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_10_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_10_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_11_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_11_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_12_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_12_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_13_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_13_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_14_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_14_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_15_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_15_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_16_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_16_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_17_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_17_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_18_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_18_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_19_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_19_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_20_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_20_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_21_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_21_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_22_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_22_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_23_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_23_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_24_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_24_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_25_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_25_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_26_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_26_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_27_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_27_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_28_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_28_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_29_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_29_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_30_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_30_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_31_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_31_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_32_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_32_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T23/slide_33_T23.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T23/slide_33_T23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/#T24. Менеджер временных таблиц. Разбор практических задач на работу с запросами.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/#T24. Менеджер временных таблиц. Разбор практических задач на работу с запросами.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/T24 Презентация.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/T24 Презентация.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_01_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_01_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_02_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_02_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_03_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_03_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_04_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_04_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_05_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_05_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_06_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_06_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_07_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_07_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_08_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_08_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_09_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_09_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_10_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_10_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_11_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_11_T24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2 часть/Запросы/#T24/slide_12_T24.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/2 часть/7 Запросы/#T24/slide_12_T24.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,11 +132,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\8 Оперативный учет Контроль остатков и учет по партиям\#T25" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\8 Оперативный учет Контроль остатков и учет по партиям\#T26" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\6 Документы Отражение хозяйственных операций\#T18" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\6 Документы Отражение хозяйственных операций\#T19" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\6 Документы Отражение хозяйственных операций\#T17" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\6 Документы Отражение хозяйственных операций\#T19" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\8 Оперативный учет Контроль остатков и учет по партиям\#T27" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\8 Оперативный учет Контроль остатков и учет по партиям\#T25" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -272,7 +169,7 @@
       <workItem from="1773052219882" duration="1388000" />
       <workItem from="1773053635479" duration="5665000" />
       <workItem from="1773074404766" duration="7297000" />
-      <workItem from="1773152472258" duration="1826000" />
+      <workItem from="1773152472258" duration="4226000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
