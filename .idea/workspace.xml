@@ -5,47 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/#T30. Отчеты. Способы разработки отчетов. Первый простой отчет.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/T30 Презентация.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_01_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_02_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_03_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_04_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_05_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_06_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_07_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_08_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_09_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_10_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_11_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_12_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_13_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_14_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_15_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_16_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T30/slide_17_T30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T31/#T31. СКД. Первое знакомство. Виды наборов данных.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/#T32. СКД. Поля компоновки данных. Расширения языка запросов в СКД.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T33/#T33. СКД. Связи наборов данных и вычисляемые поля.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/#T29. Печатные формы. Текстовый документ, печать в Word.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/T29 Презентация.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_01_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_02_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_03_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_04_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_05_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_06_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_07_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_08_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_09_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_10_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_11_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_12_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_13_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_14_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_15_T29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/9 Печатные формы/#T29/slide_16_T29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/T32 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_01_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_02_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_03_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_04_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_05_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_06_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_07_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_08_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_09_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_10_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_11_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_12_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_13_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_14_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_15_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_16_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_17_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_18_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_19_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_20_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_21_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_22_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_23_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_24_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_25_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_26_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_27_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_28_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_29_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_30_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_31_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_32_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_33_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_34_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_35_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_36_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_37_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_38_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_39_T32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_40_T32.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,11 +100,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T32" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T31" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T30" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\9 Печатные формы\#T29" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T33" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T32" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T31" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -140,7 +140,7 @@
       <workItem from="1773152472258" duration="6172000" />
       <workItem from="1773243918648" duration="922000" />
       <workItem from="1773509768092" duration="635000" />
-      <workItem from="1774266043251" duration="4478000" />
+      <workItem from="1774266043251" duration="4794000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
