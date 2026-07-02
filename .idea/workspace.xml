@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/T32 Презентация.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_01_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_02_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_03_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_04_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_05_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_06_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_07_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_08_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_09_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_10_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_11_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_12_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_13_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_14_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_15_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_16_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_17_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_18_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_19_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_20_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_21_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_22_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_23_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_24_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_25_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_26_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_27_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_28_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_29_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_30_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_31_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_32_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_33_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_34_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_35_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_36_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_37_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_38_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_39_T32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#T32/slide_40_T32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,11 +60,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T33" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T32" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T31" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T30" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\9 Печатные формы\#T29" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T33" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -140,7 +100,9 @@
       <workItem from="1773152472258" duration="6172000" />
       <workItem from="1773243918648" duration="922000" />
       <workItem from="1773509768092" duration="635000" />
-      <workItem from="1774266043251" duration="4794000" />
+      <workItem from="1774266043251" duration="5698000" />
+      <workItem from="1780138881521" duration="1285000" />
+      <workItem from="1782999680478" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
