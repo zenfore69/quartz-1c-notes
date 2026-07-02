@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/content/2 часть/10 Отчеты 1/#Т34/yy.md" afterDir="false" />
-    </list>
+    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +58,9 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#Т34" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\11 Отчеты 2\#Т37" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\11 Отчеты 2\#Т36" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#Т34" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#T33" />
     </key>
@@ -102,7 +100,7 @@
       <workItem from="1773509768092" duration="635000" />
       <workItem from="1774266043251" duration="5698000" />
       <workItem from="1780138881521" duration="1285000" />
-      <workItem from="1782999680478" duration="7217000" />
+      <workItem from="1782999680478" duration="7542000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
