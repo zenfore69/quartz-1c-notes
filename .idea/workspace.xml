@@ -4,7 +4,138 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first" />
+    <list default="true" id="b09a7463-68fe-47f4-af94-1105a1d010b7" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/#T38. Бухгалтерский учет. План счетов и Регистр Бухгалтерии.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/T38 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_01_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_02_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_03_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_04_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_05_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_06_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_07_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_08_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_09_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_10_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_11_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_12_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_13_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_14_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_15_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_16_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_17_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_18_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_19_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_20_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_21_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_22_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_23_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_24_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_25_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_26_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_27_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_28_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_29_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_30_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_31_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_32_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_33_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_34_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_35_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_36_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_37_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/slide_38_T38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T38/Доп материал.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/#T39. Бухгалтерский учет. Чтение данных регистра бухгалтерии.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/T39 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_01_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_02_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_03_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_04_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_05_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_06_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_07_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_08_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_09_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_10_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_11_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_12_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_13_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_14_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_15_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_16_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_17_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_18_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_19_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/slide_20_T39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/12 Бухгалтерский учет План счетов и Регистр Бухгалтерии/#T39/Регистр бухгалтерии. Развернутые остатки.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/#T40. Расчет зарплаты. План видов расчета. Регистр расчета.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/T40 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_01_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_02_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_03_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_04_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_05_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_06_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_07_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_08_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_09_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_10_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_11_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_12_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_13_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_14_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_15_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_16_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_17_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_18_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_19_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_20_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_21_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_22_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_23_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_24_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_25_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_26_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_27_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_28_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_29_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_30_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_31_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_32_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_33_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_34_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_35_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_36_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_37_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T40/slide_38_T40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/T41 Презентация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_01_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_02_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_03_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_04_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_05_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_06_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_07_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_08_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_09_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_10_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_11_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_12_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_13_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_14_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_15_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_16_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_17_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/slide_18_T41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/3 часть/13 Расчет зарплаты План видов расчета и Регистр Расчета/#T41/Доп материал.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,11 +191,11 @@
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\1 часть\1 Основы программирования" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\3 часть\13 Расчет зарплаты План видов расчета и Регистр Расчета\#T41" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\3 часть\13 Расчет зарплаты План видов расчета и Регистр Расчета\#T40" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\3 часть\12 Бухгалтерский учет План счетов и Регистр Бухгалтерии\#T39" />
+      <recent name="C:\Users\Max\WebstormProjects\quartz\content\3 часть\12 Бухгалтерский учет План счетов и Регистр Бухгалтерии\#T38" />
       <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\11 Отчеты 2\#Т36" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1\#Т34" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\11 Отчеты 2\#Т37" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\11 Отчеты 2\#Т35" />
-      <recent name="C:\Users\Max\WebstormProjects\quartz\content\2 часть\10 Отчеты 1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -103,7 +234,7 @@
       <workItem from="1774266043251" duration="5698000" />
       <workItem from="1780138881521" duration="1285000" />
       <workItem from="1782999680478" duration="10022000" />
-      <workItem from="1783079040567" duration="304000" />
+      <workItem from="1783079040567" duration="4672000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
